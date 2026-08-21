@@ -1,0 +1,14 @@
+AUTO POLICY - COVERAGE SUMMARY
+
+Policy Type: Personal Auto Insurance
+Coverage A - Liability: This policy covers bodily injury and property damage liability up to $100,000 per person and $300,000 per accident. The insured is covered for damages they are legally responsible for after an at-fault accident.
+
+Coverage B - Collision: Covers damage to the insured vehicle resulting from a collision with another vehicle or object, regardless of fault. Deductible: $500 per claim.
+
+Coverage C - Comprehensive: Covers damage from non-collision events including theft, vandalism, fire, and weather damage. Deductible: $250 per claim.
+
+Parking Lot Incidents: Damage sustained while the vehicle is parked, including hit-and-run or being struck by another vehicle, is covered under Comprehensive if the other party cannot be identified, or under Collision if the other party is identified and their information is on file.
+
+Claim Filing Window: Claims must be reported within 30 days of the incident date to remain eligible for full coverage.
+
+Exclusions: This policy does not cover damage resulting from racing, commercial use of the vehicle, or intentional acts by the insured.
